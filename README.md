@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Princigaffy
+- 👋 Hi, I’m Nandhinisekar
 - 👀 I’m interested in learning...
 - 🌱 I’m currently learning full stock dev..
 - 💞️ I’m looking to collaborate on devoleper..
